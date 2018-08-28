@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Shakir Shujabadi Poetry
-Date: 2015-09-25 
+title: Shakir Shujabadi Poetry
+date: 2015-09-25 
 ---
 
 [Part 1](https://www.youtube.com/watch?v=rcTVViPA7Fk)
