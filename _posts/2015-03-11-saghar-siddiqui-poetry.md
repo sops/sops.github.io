@@ -32,7 +32,7 @@ bikharii bikharii zulfo.n vaale qaafile rok liyaa karate the
 
 aaj gulshan me.n shaguuf-e-saaGar shikave baad-e-sabaa se karate the
 
-#bargashtaa-e-yazdaa.N se kuchh bhuul hu_ii hai
+# bargashtaa-e-yazdaa.N se kuchh bhuul hu_ii hai
 bargashtaa-e-yazdaa.N se kuchh bhuul hu_ii hai bhaTake hue insaan se kuchh bhuul hu_ii hai
 
 taa hadd-e-nazar shole hii shole hai.n chaman me.n phuulo.n ke nigeh_baan se kuchh bhuul hu_ii hai
@@ -139,19 +139,19 @@ aao ik sajdaa kare.n aalam-e-madhahoshii me.n kahate hai.n ke "Sagar" ko Khudaa 
 # ruudaad-e-muhabbat kyaa kahiye kuchh yaad rahii kuchh bhuul gaye
 ruudaad-e-muhabbat kyaa kahiye kuchh yaad rahii kuchh bhuul gaye do din kii masarrat kyaa kahiye kuchh yaad rahii kuchh bhuul gaye
 
-[ruudaad-e-muhabbat=tale of love; masarrat=happiness]
+`[ruudaad-e-muhabbat=tale of love; masarrat=happiness]`
 
 jab jaam diyaa thaa saaqii ne jab daur chalaa thaa mahafil me.n vo hosh kii sa'at kyaa kahiye kuchh yaad rahii kuchh bhuul gaye
 
-[sa'at=moment]
+`[sa'at=moment]`
 
 ehasaas ke maiKhaane me.n kahaa.N ab fikr-o-nazar kii qandiile.n aalam kii shiddat kyaa kahiye kuchh yaad rahii kuchh bhuul gaye
 
-[fikr-o-nazar=point of view; qandile.n=lamps/candles] [aalam=sorrow; shiddat=intensity]
+`[fikr-o-nazar=point of view; qandile.n=lamps/candles]` `[aalam=sorrow; shiddat=intensity]`
 
 ab apanii haqiiqat bhii "Sagar" berabt kahaanii lagatii hai duniyaa kii haqiiqat kyaa kahiye kuchh yaad rahii kuchh bhuul gaye
 
-[berabt=unrelated]
+`[berabt=unrelated]`
 
 # tere daaman kii havaa maa.Ngate hai.n
 tere daaman kii havaa maa.Ngate hai.n ham bhii jiine kii duaa maa.Ngate hai.n
