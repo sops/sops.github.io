@@ -2,7 +2,7 @@
 layout: post
 Title: Why Dave Winer is wrong about Twitter?
 Date: 2016-01-08
-tags: twitter, rant
+tags: twitter,rant
 ---
 
 Twitter leads news because it is brief, the brevity is what gives it the lightening bolt. Facebook (scobleizer) maybe a great platform to be on, but it won't be a livewire in news world unless there is nugget-sized-post version of it coming. 
