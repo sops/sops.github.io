@@ -3,9 +3,10 @@ layout: post
 title: Thank You KMandla!
 date: 2019-01-11
 ---
-Thank You **KMandla** for two blogs, [https://inconsolation.wordpress.com/](https://inconsolation.wordpress.com/) and [https://kmandla.wordpress.com/](https://kmandla.wordpress.com/)
-This the the best quote I found today from one of your posts, that explains free open source very well and gladly so.
-Thanks for writing the blogs, great pieces of documentation for console based applications for big and small computers alike.
+Thank you **KMandla** for two blogs, [https://inconsolation.wordpress.com/](https://inconsolation.wordpress.com/) and [https://kmandla.wordpress.com/](https://kmandla.wordpress.com/).
+
+This is the best quote I found today from one of your posts, that explains free open source very well and gladly so.
+Thanks for writing the blogs over the years, great pieces of documentation of console based applications for big and small computers alike.
 
 >But I do know, and believe in, this: 
 >Open source software has many beautiful and amazing advantages over the closed-source model.
