@@ -3,7 +3,7 @@ layout: post
 title: Thank You KMandla!
 date: 2019-01-11
 ---
-Thank You **KMandla** for two blogs, https://inconsolation.wordpress.com/ https://kmandla.wordpress.com/
+Thank You **KMandla** for two blogs, [https://inconsolation.wordpress.com/](https://inconsolation.wordpress.com/) and [https://kmandla.wordpress.com/](https://kmandla.wordpress.com/)
 This the the best quote I found today from one of your posts, that explains free open source very well and gladly so.
 Thanks for writing the blogs, great pieces of documentation for console based applications for big and small computers alike.
 
