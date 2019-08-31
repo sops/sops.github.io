@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank You KMandla!
+title: Thank You KMandla
 date: 2019-01-11
 ---
 Thank you **KMandla** for two blogs, [https://inconsolation.wordpress.com/](https://inconsolation.wordpress.com/) and [https://kmandla.wordpress.com/](https://kmandla.wordpress.com/).
