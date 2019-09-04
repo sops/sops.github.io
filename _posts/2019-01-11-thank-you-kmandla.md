@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Thank You KMandla
-date: {}
-published: true
 ---
 Thank you **KMandla**.
 
